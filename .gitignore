@@ -1,3 +1,5 @@
 grep_fasta
 src/*.o
 test_files/lots.fa
+release
+bin
